@@ -1,0 +1,52 @@
+.md{
+    width: 1226px;
+    height: 500px;
+    margin: 0 auto;
+
+}
+body{background: powderblue;}
+.phoneBoxTOP{ height: 58px;
+              line-height: 58px;
+            }
+.phoneBoxTOPLeft{float: left;
+                 font-size: 22px;
+                 font-weight: 200;
+                                }
+.phoneBoxTOPRigjt{ float: right;
+                color: #424242;
+                font-size: 16px;  }
+.phoneBoxBottomLeft{ width: 234px;
+                     height: 614px;
+                     background: url("../images/bg.jpg") center center no-repeat;
+                     background-size: cover;
+                     float: left;
+                     border-radius: 20px;
+                    }
+.phoneBoxBottomRight{ width: 992px;
+                    height:614px;
+                    float: left;}
+.phoneBoxBottomRight li{width: 234px;
+                        height: 300px;
+                        float: left;
+                        margin-left: 14px;
+                        margin-bottom: 14px;
+                        background:#fff;
+                        border-radius: 20px;}
+.flag{width: 64px;
+    height: 20px;
+    line-height: 20px;
+    background: #83c44e;
+    text-align: center;
+    color:#fff;
+    margin: 0 auto;}
+.phoneBoxBottomRight img{width: 160px;
+                        margin: 0 auto;
+                        display: block;}
+.phoneBoxBottomRight p{ text-align: center;
+                        font-size: 12px;
+                        line-height: 20px;}
+.p1{font-size: 14px;
+    margin-top: 15px;
+    color: #333;}
+.p2{color: #b0b0b0;}
+.p3{color:#e9342d;}
